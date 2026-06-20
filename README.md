@@ -10,5 +10,8 @@ This is **not** needing to be mobile friendly, so the layout should look good on
 
 # Attribution
 
-Green Fern Background: Photo by <a href="https://unsplash.com/@haliewestphoto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Halie West</a> on <a href="https://unsplash.com/photos/green-leaf-plant-in-close-up-photography-25xggax4bSA?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Green Fern Background: Photo by [Halie West](https://unsplash.com/@haliewestphoto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
       
+Norse Font: Font by [Joel Carrouche](https://www.joelcarrouche.com)  
+
+Odin Logo: Logo by [The Odin Project](https://theodinproject.com)
