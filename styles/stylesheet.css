@@ -47,11 +47,6 @@ p, button {
     font-size: 6rem;
 }
 
-.logo img {
-    width: 8rem;
-    height: 8rem;
-}
-
 body {
     display: flex;
     height: 100vh;
@@ -189,4 +184,9 @@ p.form-heading {
     align-items: center;
     justify-content: center;
     padding: 4rem;
+}
+
+.logo img {
+    width: 8rem;
+    height: 8rem;
 }
