@@ -12,7 +12,7 @@
 
 @font-face {
     font-family: 'norsebold';
-    src: url('/assets/fonts/norsebold-webfont.woff2') format('woff2'),
+    src: url('/signup-form/assets/fonts/norsebold-webfont.woff2') format('woff2'),
          url('/assets/fonts/norsebold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
