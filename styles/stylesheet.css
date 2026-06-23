@@ -39,6 +39,19 @@ p, button {
     padding-right: 6rem;
 }
 
+.logo p {
+    font-family: "norsebold";
+    padding-right: 0;
+    margin-left: 0;
+    color: white;
+    font-size: 6rem;
+}
+
+.logo img {
+    width: 8rem;
+    height: 8rem;
+}
+
 body {
     display: flex;
     height: 100vh;
@@ -176,17 +189,4 @@ p.form-heading {
     align-items: center;
     justify-content: center;
     padding: 4rem;
-}
-
-.logo p {
-    font-family: "norsebold";
-    padding-right: 0;
-    margin-left: 0;
-    color: white;
-    font-size: 6rem;
-}
-
-.logo img {
-    width: 8rem;
-    height: 8rem;
 }
